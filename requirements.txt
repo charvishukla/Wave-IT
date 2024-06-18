@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+tensorflow==2.16.0rc0
+ipykernel
+notebook  
+mediapipe==0.10.13
